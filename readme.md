@@ -4,7 +4,7 @@ Este proyecto muestra cómo implementar **navegación tipada y segura con rutas*
 
 ---
 
-![Ejemplo de Navigation](res/drawable/ejemplo_navigation.png)
+![Ejemplo de Navigation](./assets/ejemplo_navigation.png)
 
 ---
 
