@@ -4,6 +4,10 @@ Este proyecto muestra cómo implementar **navegación tipada y segura con rutas*
 
 ---
 
+![Ejemplo de Navigation](res/drawable/ejemplo_navigation.png)
+
+---
+
 ## 🚀 Descripción general
 
 La aplicación contiene un flujo de autenticación y una sección de productos:
